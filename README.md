@@ -19,7 +19,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=natiqhaciyef)](https://git.io/streak-stats)
 
 ### :computer: Most used language and tools :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natiqhaciyef)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natiqhaciyef&show_icons=true&theme=transparent)
 
 ### :hammer_and_wrench: Have experience on languages and tools :
 <div>
