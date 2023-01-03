@@ -1,4 +1,5 @@
 ### 🔗: Connect with me and Social medias:
+<div>
 <a href="https://www.linkedin.com/in/natiqhaciyev/" target="blank">
   <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" height="40" width="40"/>
 </a>
@@ -12,9 +13,10 @@
 </a>
 <br />
 <br />
+</div>
 
 ### :fire: Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-natiqhaciyef&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=natiqhaciyef)](https://git.io/streak-stats)
 
 ### :computer: Most used language and tools :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natiqhaciyef)](https://github.com/anuraghazra/github-readme-stats)
