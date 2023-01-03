@@ -1,8 +1,17 @@
-### 🔗: Most used language and tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" **alt="LinkedIn" width="40" height="40"
-       onclick="https://www.linkedin.com/in/natiqhaciyev/" />
-</div>
+### 🔗: Connect with me and Social medias:
+<a href="https://www.linkedin.com/in/natiqhaciyev/" target="blank">
+  <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" height="40" width="40"/>
+</a>
+
+<a href="https://medium.com/@natig.haciyef" target="blank">
+  <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968933.png" height="40" width="45"/>
+</a>
+
+<a href="https://www.youtube.com/channel/UCml1fNg1ixMEyEemhkqacZw" target="blank">
+  <img align="left" src="https://www.svgrepo.com/download/111232/youtube.svg" height="40" width="45"/>
+</a>
+<br />
+<br />
 
 ### :fire: Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=natiqhaciyef&theme=dark&background=000000)](https://git.io/streak-stats)
