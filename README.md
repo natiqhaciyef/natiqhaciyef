@@ -18,9 +18,6 @@
 ### :fire: Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=natiqhaciyef)](https://git.io/streak-stats)
 
-### :computer: Most used language and tools :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natiqhaciyef&show_icons=true&theme=transparent)
-
 ### :hammer_and_wrench: Have experience on languages and tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" title="Android" **alt="Android" width="40" height="40"/>
