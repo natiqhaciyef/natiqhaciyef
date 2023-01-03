@@ -1,8 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media1.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="250"/>
-</div>
-
-
 ### :fire: Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=natiqhaciyef&theme=dark&background=000000)](https://git.io/streak-stats)
 
