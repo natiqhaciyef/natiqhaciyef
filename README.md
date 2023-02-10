@@ -1,9 +1,5 @@
 ### 🔗 Connect with me and Social medias :
 <div>
-<a href="https://www.linkedin.com/in/natiqhaciyev/" target="blank">
-  <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" height="40" width="40"/>
-</a>
-
 <a href="https://medium.com/@natig.haciyef" target="blank">
   <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968933.png" height="40" width="45"/>
 </a>
