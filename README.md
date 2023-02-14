@@ -1,16 +1,3 @@
-### 🔗 Connect with me and Social medias :
-<div>
-<a href="https://medium.com/@natig.haciyef" target="blank">
-  <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968933.png" height="40" width="45"/>
-</a>
-
-<a href="https://www.youtube.com/channel/UCml1fNg1ixMEyEemhkqacZw" target="blank">
-  <img align="left" src="https://www.svgrepo.com/download/111232/youtube.svg" height="40" width="45"/>
-</a>
-<br />
-<br />
-</div>
-
 ### :fire: Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=natiqhaciyef)](https://git.io/streak-stats)
 
