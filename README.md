@@ -15,3 +15,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
+
+
+## Links
+
+<a href="https://www.linkedin.com/in/natiqhaciyev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" width="42"/>
+</a>
+<a href="https://www.instagram.com/natig.hv" target="blank">
+  <img src="https://skillicons.dev/icons?i=instagram&theme=light" alt="Instagram" width="42"/>
+</a>
+<a href="https://leetcode.com/u/Natiq555/" target="_blank">
+  <img src="https://github.com/kin-aliyev/kin-aliyev/blob/main/assets/icons/LeetCode_logo_black.png" alt="Leetcode" width="42"/>
+</a>
