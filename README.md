@@ -22,11 +22,11 @@
 <a href="https://www.linkedin.com/in/natiqhaciyev/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" width="42"/>
 </a>
-
+&nbsp; &nbsp; &nbsp;
 <a href="https://www.instagram.com/natig.hv" target="blank">
   <img src="https://skillicons.dev/icons?i=instagram&theme=light" alt="Instagram" width="42"/>
 </a>
-
+&nbsp; &nbsp; &nbsp;
 <a href="https://leetcode.com/u/Natiq555/" target="_blank">
   <img src="https://github.com/kin-aliyev/kin-aliyev/blob/main/assets/icons/LeetCode_logo_black.png" alt="Leetcode" width="42"/>
 </a>
